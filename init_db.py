@@ -1,5 +1,5 @@
-from app import db
-from app import app
+from main import db
+from main import app
 
 # make sure this runs inside the Flask app context
 with app.app_context():
