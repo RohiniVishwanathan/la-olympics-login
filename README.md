@@ -1,5 +1,7 @@
 LA Olympics 2028 – Login & Signup Integration
 This branch contains the login and signup functionality built with Flask and integrated with SQLite3.
+Update:  the project has been migrated from `app.py` to `main.py` for consistency with the team structure. All login, signup, and database logic is now in `main.py`.
+
 
 Note for Integration
 This branch contains the login and signup functionality built using Flask and SQLite.
